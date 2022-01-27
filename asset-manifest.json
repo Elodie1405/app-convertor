@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//Elodie1405.github.io/app-convertor/static/css/main.abd19195.css",
-    "main.js": "/https//Elodie1405.github.io/app-convertor/static/js/main.6ea351ee.js",
-    "static/js/787.02858c89.chunk.js": "/https//Elodie1405.github.io/app-convertor/static/js/787.02858c89.chunk.js",
-    "index.html": "/https//Elodie1405.github.io/app-convertor/index.html",
-    "main.abd19195.css.map": "/https//Elodie1405.github.io/app-convertor/static/css/main.abd19195.css.map",
-    "main.6ea351ee.js.map": "/https//Elodie1405.github.io/app-convertor/static/js/main.6ea351ee.js.map",
-    "787.02858c89.chunk.js.map": "/https//Elodie1405.github.io/app-convertor/static/js/787.02858c89.chunk.js.map"
+    "main.css": "/app-convertor/static/css/main.abd19195.css",
+    "main.js": "/app-convertor/static/js/main.ec4f46c0.js",
+    "static/js/787.02858c89.chunk.js": "/app-convertor/static/js/787.02858c89.chunk.js",
+    "index.html": "/app-convertor/index.html",
+    "main.abd19195.css.map": "/app-convertor/static/css/main.abd19195.css.map",
+    "main.ec4f46c0.js.map": "/app-convertor/static/js/main.ec4f46c0.js.map",
+    "787.02858c89.chunk.js.map": "/app-convertor/static/js/787.02858c89.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd19195.css",
-    "static/js/main.6ea351ee.js"
+    "static/js/main.ec4f46c0.js"
   ]
 }
